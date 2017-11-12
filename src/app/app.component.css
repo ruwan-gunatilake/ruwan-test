@@ -1,0 +1,29 @@
+
+#routes #head-row  {
+    background-color: #dee9f9;
+}
+
+#routes th {
+    font-weight: 800;
+    font-size: 1.2em;
+}
+
+.form-label {
+    width: 200px;
+}
+
+.ontime {
+    color: green;
+}
+
+.early {
+    color: red;
+}
+
+.late {
+    color: blue;
+}
+
+.unknown {
+    color: orange;
+}
